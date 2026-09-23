@@ -1,6 +1,6 @@
-# Boreal
+# Boreal – NZXT Kraken Control für Linux
 
-**Native Linux-Steuerung für NZXT-Kraken-Kühlungen – mit GTK4, Libadwaita und liquidctl.**
+**Eine native, unabhängige Open-Source-Alternative zu NZXT CAM für Linux: Kraken-AIOs überwachen und Pumpe, Lüfter, LCD sowie RGB mit GTK4, Libadwaita und liquidctl steuern.**
 
 [English README](README.en.md) · [Fehler melden](https://github.com/Avacon00/boreal-cooling/issues/new/choose) · [Version 0.2.5 herunterladen](https://github.com/Avacon00/boreal-cooling/releases/tag/v0.2.5)
 
