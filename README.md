@@ -104,7 +104,7 @@ Pakete und Prüfsummen stehen unter
 ### Pop!_OS 24.04 / Ubuntu 24.04
 
 ```bash
-sudo apt install ./boreal-cooling_0.2.5~preview1_all.deb
+sudo apt install ./boreal-cooling_0.2.5.preview1_all.deb
 systemctl --user daemon-reload
 ```
 

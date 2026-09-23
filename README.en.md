@@ -57,7 +57,7 @@ Download packages and checksums from the
 Pop!_OS / Ubuntu:
 
 ```bash
-sudo apt install ./boreal-cooling_0.2.5~preview1_all.deb
+sudo apt install ./boreal-cooling_0.2.5.preview1_all.deb
 systemctl --user daemon-reload
 ```
 
