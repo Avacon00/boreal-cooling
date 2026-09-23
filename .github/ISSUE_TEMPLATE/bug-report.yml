@@ -1,0 +1,63 @@
+name: Fehlerbericht / Bug report
+description: Absturz, Installation, Bedienung oder unerwartetes Verhalten melden
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Danke für den Bericht. Reale Hardware wurde bisher auf Pop!_OS 24.04 mit einer Kraken Elite 360 RGB V2 geprüft. Entferne Seriennummern und persönliche Pfade aus Logs.
+  - type: input
+    id: version
+    attributes:
+      label: Boreal-Version und Paket
+      description: Zum Beispiel 0.2.5, DEB oder Pacman
+    validations:
+      required: true
+  - type: input
+    id: system
+    attributes:
+      label: Distribution und Desktop
+      description: Zum Beispiel CachyOS, KDE Plasma, Wayland
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: Kraken-Modell, USB-ID und Firmware
+      description: Keine Seriennummer angeben
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Schritte zum Reproduzieren
+      description: Welche Aktionen führen zuverlässig zum Fehler?
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Erwartetes Verhalten
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Tatsächliches Verhalten
+    validations:
+      required: true
+  - type: textarea
+    id: diagnostics
+    attributes:
+      label: Bereinigte Diagnoseinformationen
+      description: Relevante Meldungen einfügen oder einen geprüften Diagnoseexport anhängen
+      render: text
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Vorprüfung
+      options:
+        - label: Ich habe andere Kraken-/RGB-Steuerprogramme während des Tests beendet.
+          required: true
+        - label: Ich habe Seriennummern, Benutzernamen und persönliche Pfade entfernt.
+          required: true

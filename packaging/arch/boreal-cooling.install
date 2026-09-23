@@ -1,0 +1,10 @@
+post_install() {
+  udevadm control --reload-rules 2>/dev/null || true
+  echo 'Boreal installed. Reconnect the Kraken or reboot before first hardware use.'
+  echo 'Hardware control, restoration, and autostart remain disabled until enabled in Boreal.'
+}
+
+post_upgrade() {
+  udevadm control --reload-rules 2>/dev/null || true
+  echo 'Boreal updated. Existing user settings were preserved.'
+}

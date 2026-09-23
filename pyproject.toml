@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "boreal-cooling"
+version = "0.2.5"
+description = "Native Linux Kraken control with a separate liquidctl service"
+requires-python = ">=3.12"
+license = "GPL-3.0-or-later"
+dependencies = ["liquidctl>=1.16,<1.17", "Pillow>=10.2,<13", "packaging>=23"]
+
+[project.urls]
+Homepage = "https://github.com/Avacon00/boreal-cooling"
+Issues = "https://github.com/Avacon00/boreal-cooling/issues"
+Source = "https://github.com/Avacon00/boreal-cooling"
+
+[project.scripts]
+boreal = "boreal.__main__:main"
+
+[tool.setuptools.packages.find]
+include = ["boreal*"]
+
+[tool.setuptools.package-data]
+boreal = ["assets/*.svg", "locale/*/LC_MESSAGES/*.mo"]

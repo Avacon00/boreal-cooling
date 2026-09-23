@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Boreal Demo
+Name[de]=Boreal Demo
+Comment=Try Boreal with simulated hardware
+Comment[de]=Boreal mit simulierter Hardware testen
+Exec=/usr/bin/boreal --demo
+Icon=io.boreal.Cooling
+Terminal=false
+Categories=System;

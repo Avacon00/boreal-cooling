@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+*.log
+*.deb
+*.pkg.tar.*
+*.src.tar.gz
+SHA256SUMS*
+.DS_Store
+.gh-auth/

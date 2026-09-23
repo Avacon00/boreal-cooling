@@ -1,0 +1,24 @@
+name: Funktionswunsch / Feature request
+description: Eine konkrete Verbesserung für Boreal vorschlagen
+title: "[Feature] "
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Welches Problem soll gelöst werden?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Gewünschtes Verhalten
+    validations:
+      required: true
+  - type: input
+    id: hardware
+    attributes:
+      label: Betroffene Hardware oder Distribution
+  - type: textarea
+    id: context
+    attributes:
+      label: Zusätzlicher Kontext

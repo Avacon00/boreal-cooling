@@ -1,0 +1,4 @@
+# Narrow active-seat access: USB bulk + hidraw. No world-writable devices.
+# Install before 73-seat-late.rules; reconnect or reboot afterwards.
+ACTION=="add|change", SUBSYSTEM=="hidraw", ATTRS{idVendor}=="1e71", ATTRS{idProduct}=="170e|2007|2014|3008|300c|300e|3012|3014", TAG+="uaccess"
+ACTION=="add|change", SUBSYSTEM=="usb", ENV{DEVTYPE}=="usb_device", ATTR{idVendor}=="1e71", ATTR{idProduct}=="170e|2007|2014|3008|300c|300e|3012|3014", TAG+="uaccess"

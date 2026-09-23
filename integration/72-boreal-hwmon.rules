@@ -1,0 +1,2 @@
+# Optional: root-owned helper checks the actual USB vendor/product ancestry.
+ACTION=="add|change", SUBSYSTEM=="hwmon", ATTRS{idVendor}=="1e71", ATTRS{idProduct}=="170e|2007|2014|3008|300e|3012|3014", RUN+="/usr/local/libexec/boreal-hwmon-permissions %p"

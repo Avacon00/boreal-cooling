@@ -1,0 +1,986 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Boreal 0.2.4\n"
+"PO-Revision-Date: 2026-09-23 00:00+0200\n"
+"Last-Translator: Boreal contributors\n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid " · 100%-Fallback gesendet"
+msgstr " · 100% fallback sent"
+
+msgid " · Demo"
+msgstr " · Demo"
+
+msgid " · Fallback unbestätigt: {error}"
+msgstr " · Fallback unconfirmed: {error}"
+
+msgid "0,5 Sekunden"
+msgstr "0.5 seconds"
+
+msgid "1 Sekunde"
+msgstr "1 second"
+
+msgid "2 Sekunden"
+msgstr "2 seconds"
+
+msgid "3 Sekunden"
+msgstr "3 seconds"
+
+msgid "5 Sekunden"
+msgstr "5 seconds"
+
+msgid "Aktiv: {mode} · Ausrichtung bestätigt: {orientation}°"
+msgstr "Active: {mode} · Confirmed orientation: {orientation}°"
+
+msgid "Aktiv: {profile}"
+msgstr "Active: {profile}"
+
+msgid "Aktivierung muss ja/nein sein"
+msgstr "Activation must be yes/no"
+
+msgid "Aktualisierung: 500, 1000, 2000, 3000 oder 5000 ms erwartet"
+msgstr "Expected refresh interval: 500, 1000, 2000, 3000, or 5000 ms"
+
+msgid "Alltag"
+msgstr "Everyday use"
+
+msgid "Anwenden"
+msgstr "Apply"
+
+msgid "Auftrag nicht mehr verfügbar"
+msgstr "Job is no longer available"
+
+msgid "Ausrichtung"
+msgstr "Orientation"
+
+msgid "Autostart von Boreal und Tray deaktiviert"
+msgstr "Boreal and tray autostart disabled"
+
+msgid "Beleuchtung"
+msgstr "Lighting"
+
+msgid "Beleuchtung ausschalten"
+msgstr "Turn lighting off"
+
+msgid "Beleuchtung öffnen"
+msgstr "Open lighting"
+
+msgid "Bereit"
+msgstr "Ready"
+
+msgid "Bild"
+msgstr "Image"
+
+msgid "Bild auf Kraken anzeigen"
+msgstr "Show image on Kraken"
+
+msgid "Bild hinzufügen"
+msgstr "Add image"
+
+msgid "Bildausschnitt"
+msgstr "Image framing"
+
+msgid "Bildverarbeitung dauerte zu lange; bitte kleineres Medium wählen"
+msgstr "Image processing took too long; choose a smaller file"
+
+msgid "Bildverarbeitung wurde wegen eines Fehlers oder Ressourcenlimits beendet"
+msgstr "Image processing stopped because of an error or resource limit"
+
+msgid "Bitte eine Bilddatei bis 10 MiB auswählen"
+msgstr "Choose an image file up to 10 MiB"
+
+msgid "Bitte eine lokale Datei wählen"
+msgstr "Choose a local file"
+
+msgid "Bitte ganzzahlige Kurvenpunkte verwenden"
+msgstr "Use whole numbers for curve points"
+
+msgid "Bitte sechs HEX-Zeichen eingeben, zum Beispiel #6CE5C0"
+msgstr "Enter six HEX characters, for example #6CE5C0"
+
+msgid "Boreal Demo"
+msgstr "Boreal Demo"
+
+msgid "Boreal benötigt Aufmerksamkeit"
+msgstr "Boreal needs attention"
+
+msgid "Boreal und Tray starten künftig bei der Anmeldung"
+msgstr "Boreal and the tray will start when you sign in"
+
+msgid "Boreal zuerst installieren. "
+msgstr "Install Boreal first. "
+
+msgid "Boreal öffnen"
+msgstr "Open Boreal"
+
+msgid "Boreal-Dienst antwortet nicht; Diagnose im Journal prüfen"
+msgstr "Boreal service is not responding; check the system journal"
+
+msgid "Boreal-Dienst konnte nicht starten. Details: ~/.local/state/boreal/"
+msgstr "Boreal service could not start. Details: ~/.local/state/boreal/"
+
+msgid "Boreal-Dienst konnte nicht starten: "
+msgstr "Boreal service could not start: "
+
+msgid "Boreal: Aktion fehlgeschlagen"
+msgstr "Boreal: action failed"
+
+msgid "CPU (Maximum)"
+msgstr "CPU (Maximum)"
+
+msgid "Dein Display"
+msgstr "Your display"
+
+msgid "Deine Kühlung im Blick"
+msgstr "Your cooling at a glance"
+
+msgid "Demo"
+msgstr "Demo"
+
+msgid "Deutsch"
+msgstr "German"
+
+msgid "Diagnosebericht exportieren"
+msgstr "Export diagnostic report"
+
+msgid "Die Systemsprache verwendet Deutsch auf einem deutschen Linux und sonst Englisch."
+msgstr "System language uses German on a German Linux system and English otherwise."
+
+msgid "Dienst beenden"
+msgstr "Stop service"
+
+msgid "Dienst beendet"
+msgstr "Service stopped"
+
+msgid "Dienst wird beendet"
+msgstr "Service is stopping"
+
+msgid "Dieses Gerät hat kein unterstütztes LCD"
+msgstr "This device does not have a supported LCD"
+
+msgid "Display"
+msgstr "Display"
+
+msgid "Display öffnen"
+msgstr "Open display"
+
+msgid "Display-Einstellungen"
+msgstr "Display settings"
+
+msgid "Drehen"
+msgstr "Rotate"
+
+msgid "Dunkel"
+msgstr "Dark"
+
+msgid "Eigene Kurve angewandt"
+msgstr "Custom curve applied"
+
+msgid "Eigener Quellname und unbenutzter Zielname erforderlich"
+msgstr "A custom source name and unused target name are required"
+
+msgid "Ein bis drei Sensoren auswählen"
+msgstr "Select one to three sensors"
+
+msgid "Eine Kurve benötigt 2–12 Punkte"
+msgstr "A curve requires 2–12 points"
+
+msgid "Einheit"
+msgstr "Unit"
+
+msgid "Einpassen"
+msgstr "Fit"
+
+msgid "Einpassen oder Zuschneiden wählen"
+msgstr "Choose Fit or Crop"
+
+msgid "Einrichten"
+msgstr "Set up"
+
+msgid "Einrichtung"
+msgstr "Setup"
+
+msgid "Einstellungen"
+msgstr "Settings"
+
+msgid "Einstellungen automatisch wiederherstellen"
+msgstr "Restore settings automatically"
+
+msgid "Einstellungen öffnen"
+msgstr "Open settings"
+
+msgid "Einzeltemperatur"
+msgstr "Single temperature"
+
+msgid "English"
+msgstr "English"
+
+msgid "Entfernen"
+msgstr "Remove"
+
+msgid "Erkannte Zonen: {zones}"
+msgstr "Detected zones: {zones}"
+
+msgid "Erlaubt: PNG, JPEG, GIF, WebP"
+msgstr "Allowed: PNG, JPEG, GIF, WebP"
+
+msgid "Erscheinungsbild"
+msgstr "Appearance"
+
+msgid "Farbcode (HEX)"
+msgstr "Color code (HEX)"
+
+msgid "Farbcode HEX"
+msgstr "HEX color code"
+
+msgid "Farbe anwenden"
+msgstr "Apply color"
+
+msgid "Farbschema"
+msgstr "Color scheme"
+
+msgid "Fehler · Verbindung prüfen"
+msgstr "Error · Check connection"
+
+msgid "Fehler: {error}"
+msgstr "Error: {error}"
+
+msgid "Fenster schließen lässt die Kühlung im Hintergrund aktiv. „Dienst beenden“ setzt nach Möglichkeit volle Kühlleistung."
+msgstr "Closing the window keeps cooling active in the background. “Stop service” sets full cooling if possible."
+
+msgid "Firmware {firmware} · {state} · Vor {age} Sekunden gemessen"
+msgstr "Firmware {firmware} · {state} · Measured {age} seconds ago"
+
+msgid "Fremder Benutzer"
+msgstr "Different user"
+
+msgid "Für eigene Profile bitte einen neuen Namen verwenden"
+msgstr "Use a new name for custom profiles"
+
+msgid "GIF für diese Firmware nicht freigegeben"
+msgstr "GIF is not enabled for this firmware"
+
+msgid "GIF hinzufügen"
+msgstr "Add GIF"
+
+msgid "GIF ist zu lang (max. 120 Frames / 24 Mio. Ausgabepixel)"
+msgstr "GIF is too long (max. 120 frames / 24 million output pixels)"
+
+msgid "GIF-Modus benötigt eine GIF-Datei"
+msgstr "GIF mode requires a GIF file"
+
+msgid "GPU (Maximum)"
+msgstr "GPU (Maximum)"
+
+msgid "Gerät"
+msgstr "Device"
+
+msgid "Gerät freigeben"
+msgstr "Release device"
+
+msgid "Gerät nicht gefunden"
+msgstr "Device not found"
+
+msgid "Gerät nicht mehr erreichbar"
+msgstr "Device is no longer reachable"
+
+msgid "Gerät wird erkannt …"
+msgstr "Detecting device …"
+
+msgid "Gerät wird gesucht …"
+msgstr "Searching for device …"
+
+msgid "Gerät zuerst verbinden"
+msgstr "Connect the device first"
+
+msgid "Geräte aktualisieren"
+msgstr "Refresh devices"
+
+msgid "Hell"
+msgstr "Light"
+
+msgid "Helligkeit"
+msgstr "Brightness"
+
+msgid "Helligkeit muss 0–100 sein"
+msgstr "Brightness must be 0–100"
+
+msgid "Hintergrundstart beim Anmelden aktivieren"
+msgstr "Start in background when signing in"
+
+msgid "Hintergrundstart deaktivieren"
+msgstr "Disable background start"
+
+msgid "In den Tray"
+msgstr "Send to tray"
+
+msgid "Interne Aktion"
+msgstr "Internal action"
+
+msgid "Kein Gerät gefunden"
+msgstr "No device found"
+
+msgid "Kein LCD"
+msgstr "No LCD"
+
+msgid "Kein Lese-/Schreibzugriff auf Kraken: {devices}. Bitte die mitgelieferten udev-Regeln wie im README einrichten; Boreal anschließend als normalen Benutzer starten."
+msgstr "No read/write access to Kraken: {devices}. Install the supplied udev rules as described in the README, then start Boreal as a regular user."
+
+msgid "Kein Medium ausgewählt"
+msgstr "No media selected"
+
+msgid "Kein Profil aktiv"
+msgstr "No active profile"
+
+msgid "Kein Tray verfügbar; Fenster bleibt über den Programmstarter erreichbar."
+msgstr "No tray is available; the window remains accessible from the application launcher."
+
+msgid "Kein Tray-Bereich verfügbar"
+msgstr "No tray area available"
+
+msgid "Kein Tray-Host erkannt; Boreal bleibt über den Programmstarter erreichbar."
+msgstr "No tray host detected; Boreal remains accessible from the application launcher."
+
+msgid "Kein unterstütztes RGB-Zubehör erkannt"
+msgstr "No supported RGB accessories detected"
+
+msgid "Keine Beleuchtung gespeichert"
+msgstr "No lighting settings saved"
+
+msgid "Keine Hardwarezugriffe"
+msgstr "No hardware access"
+
+msgid "Keine Statistikvorlage eingerichtet"
+msgstr "No statistics template configured"
+
+msgid "Keine Zone"
+msgstr "No zone"
+
+msgid "Keine gültige Elite-V2-Sensorantwort (75:01) empfangen"
+msgstr "No valid Elite V2 sensor response (75:01) received"
+
+msgid "Keine Änderungen"
+msgstr "No changes"
+
+msgid "Konfiguration ist zu groß"
+msgstr "Configuration is too large"
+
+msgid "Kraken Control"
+msgstr "Kraken Control"
+
+msgid "Kraken Z63 · simuliert"
+msgstr "Kraken Z63 · simulated"
+
+msgid "Kraken nicht gefunden. USB-Verbindung und Gerätezugriffsrechte prüfen."
+msgstr "Kraken not found. Check the USB connection and device permissions."
+
+msgid "Kraken verbinden"
+msgstr "Connect Kraken"
+
+msgid "Kurve muss bei 20°C beginnen und bei 50°C / 100% enden"
+msgstr "Curve must start at 20°C and end at 50°C / 100%"
+
+msgid "Kurvenpunkt muss Temperatur und Prozent enthalten"
+msgstr "Curve point must contain temperature and percentage"
+
+msgid "Kühlmitteltemperatur anzeigen"
+msgstr "Show coolant temperature"
+
+msgid "Kühlprofil"
+msgstr "Cooling profile"
+
+msgid "Kühlung"
+msgstr "Cooling"
+
+msgid "LCD-Einstellung wurde nicht bestätigt"
+msgstr "LCD setting was not confirmed"
+
+msgid "LCD-Einstellungen konnten nicht bestätigt werden"
+msgstr "LCD settings could not be confirmed"
+
+msgid "LCD-USB-Interface durch Kernel belegt; kein automatisches Ablösen"
+msgstr "LCD USB interface is occupied by the Kernel; it will not be detached automatically"
+
+msgid "LCD-Uploads können firmwarebedingt fehlschlagen"
+msgstr "LCD uploads may fail because of firmware limitations"
+
+msgid "Leistung %"
+msgstr "Power %"
+
+msgid "Letzte Beleuchtung wiederherstellen"
+msgstr "Restore last lighting"
+
+msgid "Live"
+msgstr "Live"
+
+msgid "Live-Stats fortsetzen"
+msgstr "Resume live stats"
+
+msgid "Live-Stats pausieren"
+msgstr "Pause live stats"
+
+msgid "Live-Temperaturübersicht"
+msgstr "Live temperature overview"
+
+msgid "Log-Ordner öffnen"
+msgstr "Open log folder"
+
+msgid "Lüfterbeleuchtung"
+msgstr "Fan lighting"
+
+msgid "Maximal 100 eigene Profile"
+msgstr "Maximum of 100 custom profiles"
+
+msgid "Maximal acht Geräte pro Sitzung"
+msgstr "Maximum of eight devices per session"
+
+msgid "Medienbibliothek leer"
+msgstr "Media library is empty"
+
+msgid "Medientyp stimmt nicht überein"
+msgstr "Media type does not match"
+
+msgid "Medium nicht mehr in der Bibliothek"
+msgstr "Media is no longer in the library"
+
+msgid "Mehrdeutige Geräteidentität; keine automatische Auswahl"
+msgstr "Ambiguous device identity; no automatic selection"
+
+msgid "Messwerte aktualisieren"
+msgstr "Refresh measurements"
+
+msgid "Messwerte veraltet"
+msgstr "Measurements are stale"
+
+msgid "Mit einem Klick sichere Ausgangswerte setzen und das ausgewogene Profil übernehmen."
+msgstr "Set safe starting values and apply the Balanced profile with one click."
+
+msgid "Nach Verbindung prüfen"
+msgstr "Check after connecting"
+
+msgid "Nach Verbindung verfügbar"
+msgstr "Available after connecting"
+
+msgid "Nach wiederholten USB-Zeitüberschreitungen auf 1 Sekunde zurückgestellt. Verbindung bitte prüfen."
+msgstr "Reset to 1 second after repeated USB timeouts. Check the connection."
+
+msgid "Name des eigenen Profils"
+msgstr "Custom profile name"
+
+msgid "Name für eigenes Profil"
+msgstr "Name for custom profile"
+
+msgid "Native Wassertemperatur anzeigen"
+msgstr "Show native coolant temperature"
+
+msgid "Navigation ein-/ausblenden"
+msgstr "Show/hide navigation"
+
+msgid "Nicht verbunden"
+msgstr "Not connected"
+
+msgid "Noch kein Inhalt"
+msgstr "No content yet"
+
+msgid "Nur eigene Profile können gelöscht werden"
+msgstr "Only custom profiles can be deleted"
+
+msgid "Nur für dieses geprüfte Gerät. Nach kritischen Kühlfehlern ist eine Bestätigung nötig."
+msgstr "Only for this verified device. Confirmation is required after critical cooling errors."
+
+msgid "Oberfläche beenden"
+msgstr "Quit interface"
+
+msgid "Oberflächensprache"
+msgstr "Interface language"
+
+msgid "Profil benötigt pump und fan"
+msgstr "Profile requires pump and fan"
+
+msgid "Profil nicht gefunden"
+msgstr "Profile not found"
+
+msgid "Profil unverändert"
+msgstr "Profile unchanged"
+
+msgid "Profilbibliothek ist zu groß"
+msgstr "Profile library is too large"
+
+msgid "Profildatei ist zu groß"
+msgstr "Profile file is too large"
+
+msgid "Profildatei zu groß"
+msgstr "Profile file too large"
+
+msgid "Profilname muss 1–64 Zeichen enthalten"
+msgstr "Profile name must contain 1–64 characters"
+
+msgid "Protokollversion 2 erforderlich"
+msgstr "Protocol version 2 is required"
+
+msgid "Pumpe"
+msgstr "Pump"
+
+msgid "Pumpe ≥60%, Lüfter ≥30%. Bei 50 °C immer 100%. Orange Linie: aktuelle Wassertemperatur."
+msgstr "Pump ≥60%, fans ≥30%. Always 100% at 50°C. Orange line: current coolant temperature."
+
+msgid "Pumpenring"
+msgstr "Pump ring"
+
+msgid "Punkt hinzufügen"
+msgstr "Add point"
+
+msgid "Punkt {number}: Leistung"
+msgstr "Point {number}: power"
+
+msgid "Punkt {number}: Wassertemperatur"
+msgstr "Point {number}: coolant temperature"
+
+msgid "Punkte ziehen; dieselben Werte können in der Tabelle bearbeitet werden"
+msgstr "Drag points; the same values can be edited in the table"
+
+msgid "RGB erwartet drei Werte von 0–255"
+msgstr "RGB expects three values from 0–255"
+
+msgid "RGB nur für geprüfte Firmware 1.2.0 freigegeben"
+msgstr "RGB is enabled only for verified firmware 1.2.0"
+
+msgid "RGB-Farbe benötigt sechs Hex-Zeichen"
+msgstr "RGB color requires six hex characters"
+
+msgid "RGB-Kanal oder Effekt wird nicht unterstützt"
+msgstr "RGB channel or effect is not supported"
+
+msgid "RGB-Modus für diese Firmware nicht freigegeben"
+msgstr "RGB mode is not enabled for this firmware"
+
+msgid "RGB-Zubehör nicht erkannt"
+msgstr "RGB accessory not detected"
+
+msgid "RGB-Zubehörerkennung ohne gültige Antwort"
+msgstr "RGB accessory detection received no valid response"
+
+msgid "Rotation: 0, 90, 180 oder 270"
+msgstr "Rotation: 0, 90, 180, or 270"
+
+msgid "Runde LCD-Vorschau"
+msgstr "Round LCD preview"
+
+msgid "SIMULIERTE GERÄTE"
+msgstr "SIMULATED DEVICES"
+
+msgid "Schriftgröße außerhalb des Bereichs"
+msgstr "Font size is out of range"
+
+msgid "Sensor fehlt"
+msgstr "Sensor missing"
+
+msgid "Sensor {number}"
+msgstr "Sensor {number}"
+
+msgid "Sensor {number} der Temperaturvorlage"
+msgstr "Sensor {number} of the temperature template"
+
+msgid "Sensoren werden eingelesen …"
+msgstr "Reading sensors …"
+
+msgid "Setzen"
+msgstr "Set"
+
+msgid "Sicher · 100%"
+msgstr "Safe · 100%"
+
+msgid "Sicher · Firmware vor Wiederherstellung prüfen"
+msgstr "Safe · Verify firmware before restoring"
+
+msgid "Sprache"
+msgstr "Language"
+
+msgid "Sprache gespeichert. Boreal beim nächsten Öffnen neu starten."
+msgstr "Language saved. Restart Boreal the next time you open it."
+
+msgid "System"
+msgstr "System"
+
+msgid "Systemsprache"
+msgstr "System language"
+
+msgid "Temperaturen müssen steigen; Leistung darf nicht fallen"
+msgstr "Temperatures must increase; power must not decrease"
+
+msgid "Temperaturvorlagen"
+msgstr "Temperature templates"
+
+msgid "Testprofile"
+msgstr "Test profiles"
+
+msgid "Tray verfügbar"
+msgstr "Tray available"
+
+msgid "Tray verfügbar · X blendet Boreal aus"
+msgstr "Tray available · X hides Boreal"
+
+msgid "USB-Prozess beendet"
+msgstr "USB process stopped"
+
+msgid "USB-Sitzung verloren; Fallback nicht bestätigt"
+msgstr "USB session lost; fallback not confirmed"
+
+msgid "Unbekannte Aktion"
+msgstr "Unknown action"
+
+msgid "Unbekannte Konfiguration; Sicherung vor Migration erforderlich"
+msgstr "Unknown configuration; back up before migration"
+
+msgid "Unbekannte LCD-Vorlage"
+msgstr "Unknown LCD template"
+
+msgid "Unbekannte RGB-Zubehörantwort"
+msgstr "Unknown RGB accessory response"
+
+msgid "Unbekannte Sprache"
+msgstr "Unknown language"
+
+msgid "Unbekannte Sprache in Konfiguration"
+msgstr "Unknown language in configuration"
+
+msgid "Unbekannter Kühlkanal"
+msgstr "Unknown cooling channel"
+
+msgid "Unbekannter LCD-Modus"
+msgstr "Unknown LCD mode"
+
+msgid "Unbekanntes Demogerät"
+msgstr "Unknown demo device"
+
+msgid "Unbekanntes Erscheinungsbild"
+msgstr "Unknown appearance setting"
+
+msgid "Ungespeicherte Änderungen"
+msgstr "Unsaved changes"
+
+msgid "Ungültige Profilbibliothek"
+msgstr "Invalid profile library"
+
+msgid "Ungültige Profilsammlung"
+msgstr "Invalid profile collection"
+
+msgid "Ungültige RGB-Zone"
+msgstr "Invalid RGB zone"
+
+msgid "Ungültige Temperatureinheit"
+msgstr "Invalid temperature unit"
+
+msgid "Ungültiger Bildausschnitt"
+msgstr "Invalid image framing"
+
+msgid "Ungültiges Medienformat in der Bibliothek"
+msgstr "Invalid media format in the library"
+
+msgid "Ungültiges Medium"
+msgstr "Invalid media"
+
+msgid "Ungültiges Messintervall in Konfiguration"
+msgstr "Invalid refresh interval in configuration"
+
+msgid "Upstream markiert Elite 2023 als fehlerhaft"
+msgstr "Upstream marks Elite 2023 as faulty"
+
+msgid "Verbindung prüfen · letzte Messwerte können veraltet sein"
+msgstr "Check connection · latest measurements may be stale"
+
+msgid "Verwerfen"
+msgstr "Discard"
+
+msgid "Volle Kühlleistung"
+msgstr "Full cooling power"
+
+msgid "Vor erneutem Suchen alle Geräte trennen"
+msgstr "Disconnect all devices before searching again"
+
+msgid "Voreinstellung bitte unter einem eigenen Namen speichern"
+msgstr "Save the preset under a custom name"
+
+msgid "Voreinstellungen können nicht gelöscht werden"
+msgstr "Presets cannot be deleted"
+
+msgid "Vorlage"
+msgstr "Template"
+
+msgid "Vorlage auf LCD anzeigen"
+msgstr "Show template on LCD"
+
+msgid "Vorschau"
+msgstr "Preview"
+
+msgid "Vorschau neu berechnen"
+msgstr "Rebuild preview"
+
+msgid "Wasser"
+msgstr "Coolant"
+
+msgid "Wasser °C"
+msgstr "Coolant °C"
+
+msgid "Wassertemperatur"
+msgstr "Coolant temperature"
+
+msgid "Wassertemperatur der letzten zwölf Minuten"
+msgstr "Coolant temperature over the last twelve minutes"
+
+msgid "Wassertemperatur ≥50°C"
+msgstr "Coolant temperature ≥50°C"
+
+msgid "Wiederherstellung benötigt ein verbundenes, geprüftes Gerät mit Seriennummer"
+msgstr "Restoration requires a connected, verified device with a serial number"
+
+msgid "X2 benötigt bestätigte Firmware >=4 für native Kurven"
+msgstr "X2 requires verified firmware >=4 for native curves"
+
+msgid "Zahl zwischen {low} und {high} erwartet"
+msgstr "Expected a number between {low} and {high}"
+
+msgid "Zu viele ausstehende Geräteaufträge"
+msgstr "Too many pending device jobs"
+
+msgid "Zubehör nicht eindeutig erkannt"
+msgstr "Accessory could not be identified unambiguously"
+
+msgid "Zubehörerkennung fehlgeschlagen: {error}"
+msgstr "Accessory detection failed: {error}"
+
+msgid "Zuerst ein Bild oder GIF auswählen"
+msgstr "Select an image or GIF first"
+
+msgid "Zuerst ein Gerät auswählen"
+msgstr "Select a device first"
+
+msgid "Zuschneiden"
+msgstr "Crop"
+
+msgid "Zwei Sensoren"
+msgstr "Two sensors"
+
+msgid "das ausgewählte Bild"
+msgstr "the selected image"
+
+msgid "die ausgewählte Animation"
+msgstr "the selected animation"
+
+msgid "liquidctl 1.16.x erforderlich (installiert: {version})"
+msgstr "liquidctl 1.16.x required (installed: {version})"
+
+msgid "{count} Vorgang/Vorgänge laufen …"
+msgstr "{count} operation(s) running …"
+
+msgid "{count} Vorgang/Vorgänge werden verarbeitet …"
+msgstr "Processing {count} operation(s) …"
+
+msgid "{kind} auf Kraken anzeigen"
+msgstr "Show {kind} on Kraken"
+
+msgid "{kind} erfolgreich auf Kraken übertragen."
+msgstr "{kind} successfully transferred to Kraken."
+
+msgid "{kind} wird übertragen …"
+msgstr "Transferring {kind} …"
+
+msgid "{sensor} (Maximum): {value} °C"
+msgstr "{sensor} (maximum): {value} °C"
+
+msgid "{value:.1f} °C · Wasserverlauf"
+msgstr "{value:.1f} °C · Coolant history"
+
+msgid "{width} × {height} · {frames} Bild(er) · {size} KiB"
+msgstr "{width} × {height} · {frames} frame(s) · {size} KiB"
+
+msgid "Übersicht"
+msgstr "Overview"
+
+msgid "Übertragen / gespeichert"
+msgstr "Transferred / saved"
+
+msgid "Überträgt das ausgewählte Bild auf das Display deiner Wasserkühlung."
+msgstr "Transfers the selected image to your liquid cooler display."
+
+msgid "Überträgt {medium} auf das Display deiner Wasserkühlung."
+msgstr "Transfers {medium} to your liquid cooler display."
+
+msgid "—"
+msgstr "—"
+
+msgid "Leise"
+msgstr "Quiet"
+
+msgid "Ausgewogen"
+msgstr "Balanced"
+
+msgid "Leistung"
+msgstr "Performance"
+
+msgid "Leise – Test"
+msgstr "Quiet – Test"
+
+msgid "Ausgewogen – Test"
+msgstr "Balanced – Test"
+
+msgid "Leistung – Test"
+msgstr "Performance – Test"
+
+msgid "Lüfter"
+msgstr "Fans"
+
+msgid "Speichern / Duplizieren"
+msgstr "Save / Duplicate"
+
+msgid "Umbenennen"
+msgstr "Rename"
+
+msgid "Löschen"
+msgstr "Delete"
+
+msgid "Importieren"
+msgstr "Import"
+
+msgid "Exportieren"
+msgstr "Export"
+
+msgid "Hintergrundfarbe"
+msgstr "Background color"
+
+msgid "Darstellung"
+msgstr "Display mode"
+
+msgid "Vergrößerung"
+msgstr "Zoom"
+
+msgid "Position horizontal"
+msgstr "Horizontal position"
+
+msgid "Position vertikal"
+msgstr "Vertical position"
+
+msgid "Akzentfarbe"
+msgstr "Accent color"
+
+msgid "Schriftgröße"
+msgstr "Font size"
+
+msgid "Zone"
+msgstr "Zone"
+
+msgid "Lokal · ohne Cloud"
+msgstr "Local · no cloud"
+
+msgid "Kein Tray verfügbar"
+msgstr "No tray available"
+
+msgid "Kraken-Gerät"
+msgstr "Kraken device"
+
+msgid "Bilddarstellung"
+msgstr "Image display mode"
+
+msgid "Display-Ausrichtung"
+msgstr "Display orientation"
+
+msgid "Display-Helligkeit in Prozent"
+msgstr "Display brightness in percent"
+
+msgid "Temperaturvorlage"
+msgstr "Temperature template"
+
+msgid "Temperatureinheit"
+msgstr "Temperature unit"
+
+msgid "Beleuchtungszone"
+msgstr "Lighting zone"
+
+msgid "Beleuchtungshelligkeit in Prozent"
+msgstr "Lighting brightness in percent"
+
+msgid "Automatische Gerätewiederherstellung"
+msgstr "Automatic device restoration"
+
+msgid "Temperaturen, aktives Profil und Display auf einen Blick."
+msgstr "Temperatures, active profile, and display at a glance."
+
+msgid "Kurven laufen auf der Kraken weiter, auch wenn das Fenster geschlossen ist."
+msgstr "Curves continue running on the Kraken when the window is closed."
+
+msgid "Medien und Vorlagen vorbereiten. Erst „Anzeigen“ überträgt den Inhalt."
+msgstr "Prepare media and templates. Content is transferred only when you choose “Show”."
+
+msgid "Nur erkannte Zonen und geprüfte Funktionen werden angeboten."
+msgstr "Only detected zones and verified functions are available."
+
+msgid "Startverhalten, Erscheinungsbild und verständliche Diagnose."
+msgstr "Startup behavior, appearance, and clear diagnostics."
+
+msgid "Profil importieren"
+msgstr "Import profile"
+
+msgid "Profil exportieren"
+msgstr "Export profile"
+
+msgid "Diagnosebericht speichern"
+msgstr "Save diagnostic report"
+
+msgid "Farbton (Grad)"
+msgstr "Hue (degrees)"
+
+msgid "Sättigung (%)"
+msgstr "Saturation (%)"
+
+msgid "Weiß"
+msgstr "White"
+
+msgid "Rot"
+msgstr "Red"
+
+msgid "Orange"
+msgstr "Orange"
+
+msgid "Gelb"
+msgstr "Yellow"
+
+msgid "Grün"
+msgstr "Green"
+
+msgid "Cyan"
+msgstr "Cyan"
+
+msgid "Blau"
+msgstr "Blue"
+
+msgid "Violett"
+msgstr "Violet"
+
+msgid "Fehlender oder ungültiger Sensor: {sensor}"
+msgstr "Missing or invalid sensor: {sensor}"
+
+msgid "UI und Dienst haben unterschiedliche Versionen. Boreal gemeinsam aktualisieren und Dienst neu starten."
+msgstr "The interface and service have different versions. Update Boreal together and restart the service."
+
+msgid "Elite 2023 ist nicht freigegeben"
+msgstr "Elite 2023 is not enabled"
+
+msgid "Boreal · native Linux Kraken control"
+msgstr "Boreal · native Linux Kraken control"
+
+msgid "Simulierte Hardware (Standard)"
+msgstr "Simulated hardware (default)"
+
+msgid "Echte liquidctl-Geräte"
+msgstr "Real liquidctl devices"
+
+msgid "Nur den Benutzerdienst starten"
+msgstr "Start only the user service"
+
+msgid "UI nach drei Sekunden schließen"
+msgstr "Close the interface after three seconds"
+

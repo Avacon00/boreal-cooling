@@ -1,0 +1,51 @@
+name: Hardware- und Distributionstest
+description: Einen erfolgreichen oder teilweise erfolgreichen Test auf neuer Hardware melden
+title: "[Hardware] "
+body:
+  - type: input
+    id: system
+    attributes:
+      label: Distribution, Version und Desktop-Sitzung
+      description: Einschließlich X11 oder Wayland
+    validations:
+      required: true
+  - type: input
+    id: package
+    attributes:
+      label: Boreal-Version und Installationsart
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: Kraken-Modell, USB-ID und Firmware
+      description: Keine Seriennummer veröffentlichen
+    validations:
+      required: true
+  - type: checkboxes
+    id: features
+    attributes:
+      label: Getestete Funktionen
+      options:
+        - label: Erkennung und Telemetrie
+        - label: Pumpe und Lüfter
+        - label: Statisches LCD-Bild
+        - label: GIF
+        - label: Live-Statistiken und Rotation
+        - label: Pumpenring-RGB
+        - label: Lüfter-RGB
+        - label: Tray und Autostart
+        - label: Standby und Wiederherstellung
+  - type: textarea
+    id: result
+    attributes:
+      label: Ergebnis und Auffälligkeiten
+    validations:
+      required: true
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Datenschutz
+      options:
+        - label: Der Bericht enthält keine Seriennummern oder persönlichen Pfade.
+          required: true

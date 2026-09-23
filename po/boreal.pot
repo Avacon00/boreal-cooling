@@ -1,0 +1,1134 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#: boreal/ui.py:210 boreal/ui.py:289 boreal/widgets.py:205
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-09-23 20:02+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: boreal/service.py:58
+msgid " · 100%-Fallback gesendet"
+msgstr ""
+
+#: boreal/ui.py:408
+msgid " · Demo"
+msgstr ""
+
+#: boreal/service.py:60
+#, python-brace-format
+msgid " · Fallback unbestätigt: {error}"
+msgstr ""
+
+#: boreal/ui.py:178
+msgid "0,5 Sekunden"
+msgstr ""
+
+#: boreal/ui.py:178
+msgid "1 Sekunde"
+msgstr ""
+
+#: boreal/ui.py:178
+msgid "2 Sekunden"
+msgstr ""
+
+#: boreal/ui.py:178
+msgid "3 Sekunden"
+msgstr ""
+
+#: boreal/ui.py:178
+msgid "5 Sekunden"
+msgstr ""
+
+#: boreal/ui.py:434
+#, python-brace-format
+msgid "Aktiv: {mode} · Ausrichtung bestätigt: {orientation}°"
+msgstr ""
+
+#: boreal/ui.py:411
+#, python-brace-format
+msgid "Aktiv: {profile}"
+msgstr ""
+
+#: boreal/runtime.py:110
+msgid "Aktivierung muss ja/nein sein"
+msgstr ""
+
+#: boreal/settings.py:46
+msgid "Aktualisierung: 500, 1000, 2000, 3000 oder 5000 ms erwartet"
+msgstr ""
+
+#: boreal/ui.py:274
+msgid "Alltag"
+msgstr ""
+
+#: boreal/ui.py:214
+msgid "Anwenden"
+msgstr ""
+
+#: boreal/runtime.py:241
+msgid "Auftrag nicht mehr verfügbar"
+msgstr ""
+
+#: boreal/ui.py:235
+msgid "Ausrichtung"
+msgstr ""
+
+#: boreal/ui.py:639
+msgid "Autostart von Boreal und Tray deaktiviert"
+msgstr ""
+
+#: boreal/tray_model.py:32 boreal/ui.py:75 boreal/ui.py:260
+msgid "Beleuchtung"
+msgstr ""
+
+#: boreal/tray_model.py:33 boreal/ui.py:270
+msgid "Beleuchtung ausschalten"
+msgstr ""
+
+#: boreal/tray_model.py:35
+msgid "Beleuchtung öffnen"
+msgstr ""
+
+#: boreal/ui.py:94
+msgid "Bereit"
+msgstr ""
+
+#: boreal/ui.py:433 boreal/ui.py:572 boreal/ui.py:584
+msgid "Bild"
+msgstr ""
+
+#: boreal/ui.py:256
+msgid "Bild auf Kraken anzeigen"
+msgstr ""
+
+#: boreal/ui.py:223
+msgid "Bild hinzufügen"
+msgstr ""
+
+#: boreal/ui.py:229
+msgid "Bildausschnitt"
+msgstr ""
+
+#: boreal/library.py:29
+msgid "Bildverarbeitung dauerte zu lange; bitte kleineres Medium wählen"
+msgstr ""
+
+#: boreal/library.py:31
+msgid ""
+"Bildverarbeitung wurde wegen eines Fehlers oder Ressourcenlimits beendet"
+msgstr ""
+
+#: boreal/media.py:56
+msgid "Bitte eine Bilddatei bis 10 MiB auswählen"
+msgstr ""
+
+#: boreal/ui.py:513
+msgid "Bitte eine lokale Datei wählen"
+msgstr ""
+
+#: boreal/core.py:47
+msgid "Bitte ganzzahlige Kurvenpunkte verwenden"
+msgstr ""
+
+#: boreal/colors.py:10
+msgid "Bitte sechs HEX-Zeichen eingeben, zum Beispiel #6CE5C0"
+msgstr ""
+
+#: boreal/tray.py:84
+msgid "Boreal Demo"
+msgstr ""
+
+#: boreal/ui.py:414
+msgid "Boreal benötigt Aufmerksamkeit"
+msgstr ""
+
+#: boreal/ui.py:638
+msgid "Boreal und Tray starten künftig bei der Anmeldung"
+msgstr ""
+
+#: boreal/ui.py:631
+msgid "Boreal zuerst installieren. "
+msgstr ""
+
+#: boreal/tray_model.py:13
+msgid "Boreal öffnen"
+msgstr ""
+
+#: boreal/__main__.py:25
+msgid "Boreal-Dienst antwortet nicht; Diagnose im Journal prüfen"
+msgstr ""
+
+#: boreal/__main__.py:36
+msgid "Boreal-Dienst konnte nicht starten. Details: ~/.local/state/boreal/"
+msgstr ""
+
+#: boreal/__main__.py:21
+msgid "Boreal-Dienst konnte nicht starten: "
+msgstr ""
+
+#: boreal/ui.py:323
+msgid "Boreal: Aktion fehlgeschlagen"
+msgstr ""
+
+#: boreal/ui.py:246 boreal/ui.py:421
+msgid "CPU (Maximum)"
+msgstr ""
+
+#: boreal/ui.py:218
+msgid "Dein Display"
+msgstr ""
+
+#: boreal/ui.py:176
+msgid "Deine Kühlung im Blick"
+msgstr ""
+
+#: boreal/ui.py:69
+msgid "Demo"
+msgstr ""
+
+#: boreal/ui.py:284
+msgid "Deutsch"
+msgstr ""
+
+#: boreal/ui.py:292
+msgid "Diagnosebericht exportieren"
+msgstr ""
+
+#: boreal/ui.py:287
+msgid ""
+"Die Systemsprache verwendet Deutsch auf einem deutschen Linux und sonst "
+"Englisch."
+msgstr ""
+
+#: boreal/ui.py:294
+msgid "Dienst beenden"
+msgstr ""
+
+#: boreal/runtime.py:153
+msgid "Dienst beendet"
+msgstr ""
+
+#: boreal/runtime.py:210
+msgid "Dienst wird beendet"
+msgstr ""
+
+#: boreal/service.py:184
+msgid "Dieses Gerät hat kein unterstütztes LCD"
+msgstr ""
+
+#: boreal/tray_model.py:28 boreal/ui.py:75
+msgid "Display"
+msgstr ""
+
+#: boreal/tray_model.py:31
+msgid "Display öffnen"
+msgstr ""
+
+#: boreal/ui.py:233
+msgid "Display-Einstellungen"
+msgstr ""
+
+#: boreal/ui.py:236
+msgid "Drehen"
+msgstr ""
+
+#: boreal/ui.py:282
+msgid "Dunkel"
+msgstr ""
+
+#: boreal/service.py:207
+msgid "Eigene Kurve angewandt"
+msgstr ""
+
+#: boreal/settings.py:142
+msgid "Eigener Quellname und unbenutzter Zielname erforderlich"
+msgstr ""
+
+#: boreal/media.py:105
+msgid "Ein bis drei Sensoren auswählen"
+msgstr ""
+
+#: boreal/core.py:39
+msgid "Eine Kurve benötigt 2–12 Punkte"
+msgstr ""
+
+#: boreal/service.py:74
+msgid "Einheit"
+msgstr ""
+
+#: boreal/ui.py:224
+msgid "Einpassen"
+msgstr ""
+
+#: boreal/media.py:39
+msgid "Einpassen oder Zuschneiden wählen"
+msgstr ""
+
+#: boreal/ui.py:183
+msgid "Einrichten"
+msgstr ""
+
+#: boreal/ui.py:181
+msgid "Einrichtung"
+msgstr ""
+
+#: boreal/ui.py:75 boreal/ui.py:273
+msgid "Einstellungen"
+msgstr ""
+
+#: boreal/ui.py:277
+msgid "Einstellungen automatisch wiederherstellen"
+msgstr ""
+
+#: boreal/tray_model.py:36
+msgid "Einstellungen öffnen"
+msgstr ""
+
+#: boreal/ui.py:242
+msgid "Einzeltemperatur"
+msgstr ""
+
+#: boreal/ui.py:284
+msgid "English"
+msgstr ""
+
+#: boreal/widgets.py:116
+msgid "Entfernen"
+msgstr ""
+
+#: boreal/ui.py:453
+#, python-brace-format
+msgid "Erkannte Zonen: {zones}"
+msgstr ""
+
+#: boreal/media.py:61
+msgid "Erlaubt: PNG, JPEG, GIF, WebP"
+msgstr ""
+
+#: boreal/ui.py:283
+msgid "Erscheinungsbild"
+msgstr ""
+
+#: boreal/widgets.py:204
+msgid "Farbcode (HEX)"
+msgstr ""
+
+#: boreal/widgets.py:204
+msgid "Farbcode HEX"
+msgstr ""
+
+#: boreal/ui.py:269
+msgid "Farbe anwenden"
+msgstr ""
+
+#: boreal/ui.py:283
+msgid "Farbschema"
+msgstr ""
+
+#: boreal/service.py:53
+msgid "Fehler · Verbindung prüfen"
+msgstr ""
+
+#: boreal/ui.py:324
+#, python-brace-format
+msgid "Fehler: {error}"
+msgstr ""
+
+#: boreal/ui.py:290
+msgid ""
+"Fenster schließen lässt die Kühlung im Hintergrund aktiv. „Dienst beenden“ "
+"setzt nach Möglichkeit volle Kühlleistung."
+msgstr ""
+
+#: boreal/ui.py:410
+#, python-brace-format
+msgid "Firmware {firmware} · {state} · Vor {age} Sekunden gemessen"
+msgstr ""
+
+#: boreal/runtime.py:264
+msgid "Fremder Benutzer"
+msgstr ""
+
+#: boreal/core.py:115
+msgid "Für eigene Profile bitte einen neuen Namen verwenden"
+msgstr ""
+
+#: boreal/service.py:188
+msgid "GIF für diese Firmware nicht freigegeben"
+msgstr ""
+
+#: boreal/ui.py:223
+msgid "GIF hinzufügen"
+msgstr ""
+
+#: boreal/media.py:69
+msgid "GIF ist zu lang (max. 120 Frames / 24 Mio. Ausgabepixel)"
+msgstr ""
+
+#: boreal/media.py:63
+msgid "GIF-Modus benötigt eine GIF-Datei"
+msgstr ""
+
+#: boreal/ui.py:246 boreal/ui.py:421
+msgid "GPU (Maximum)"
+msgstr ""
+
+#: boreal/tray_model.py:19
+msgid "Gerät"
+msgstr ""
+
+#: boreal/ui.py:291
+msgid "Gerät freigeben"
+msgstr ""
+
+#: boreal/runtime.py:216 boreal/service.py:146
+msgid "Gerät nicht gefunden"
+msgstr ""
+
+#: boreal/runtime.py:66
+msgid "Gerät nicht mehr erreichbar"
+msgstr ""
+
+#: boreal/ui.py:190
+msgid "Gerät wird erkannt …"
+msgstr ""
+
+#: boreal/ui.py:71
+msgid "Gerät wird gesucht …"
+msgstr ""
+
+#: boreal/service.py:160
+msgid "Gerät zuerst verbinden"
+msgstr ""
+
+#: boreal/ui.py:80
+msgid "Geräte aktualisieren"
+msgstr ""
+
+#: boreal/ui.py:282
+msgid "Hell"
+msgstr ""
+
+#: boreal/ui.py:238
+msgid "Helligkeit"
+msgstr ""
+
+#: boreal/rgb.py:29
+msgid "Helligkeit muss 0–100 sein"
+msgstr ""
+
+#: boreal/ui.py:280
+msgid "Hintergrundstart beim Anmelden aktivieren"
+msgstr ""
+
+#: boreal/ui.py:281
+msgid "Hintergrundstart deaktivieren"
+msgstr ""
+
+#: boreal/ui.py:88 boreal/ui.py:131
+msgid "In den Tray"
+msgstr ""
+
+#: boreal/runtime.py:244
+msgid "Interne Aktion"
+msgstr ""
+
+#: boreal/ui.py:372
+msgid "Kein Gerät gefunden"
+msgstr ""
+
+#: boreal/hardware.py:173
+msgid "Kein LCD"
+msgstr ""
+
+#: boreal/hardware.py:48
+#, python-brace-format
+msgid ""
+"Kein Lese-/Schreibzugriff auf Kraken: {devices}. Bitte die mitgelieferten "
+"udev-Regeln wie im README einrichten; Boreal anschließend als normalen "
+"Benutzer starten."
+msgstr ""
+
+#: boreal/ui.py:255
+msgid "Kein Medium ausgewählt"
+msgstr ""
+
+#: boreal/ui.py:191
+msgid "Kein Profil aktiv"
+msgstr ""
+
+#: boreal/ui.py:132
+msgid ""
+"Kein Tray verfügbar; Fenster bleibt über den Programmstarter erreichbar."
+msgstr ""
+
+#: boreal/ui.py:131
+msgid "Kein Tray-Bereich verfügbar"
+msgstr ""
+
+#: boreal/ui.py:106
+msgid ""
+"Kein Tray-Host erkannt; Boreal bleibt über den Programmstarter erreichbar."
+msgstr ""
+
+#: boreal/ui.py:453
+msgid "Kein unterstütztes RGB-Zubehör erkannt"
+msgstr ""
+
+#: boreal/service.py:167
+msgid "Keine Beleuchtung gespeichert"
+msgstr ""
+
+#: boreal/hardware.py:257
+msgid "Keine Hardwarezugriffe"
+msgstr ""
+
+#: boreal/service.py:162
+msgid "Keine Statistikvorlage eingerichtet"
+msgstr ""
+
+#: boreal/ui.py:263 boreal/ui.py:449
+msgid "Keine Zone"
+msgstr ""
+
+#: boreal/hardware.py:202
+msgid "Keine gültige Elite-V2-Sensorantwort (75:01) empfangen"
+msgstr ""
+
+#: boreal/ui.py:212
+msgid "Keine Änderungen"
+msgstr ""
+
+#: boreal/settings.py:19
+msgid "Konfiguration ist zu groß"
+msgstr ""
+
+#: boreal/ui.py:69
+msgid "Kraken Control"
+msgstr ""
+
+#: boreal/hardware.py:254
+msgid "Kraken Z63 · simuliert"
+msgstr ""
+
+#: boreal/ui.py:406
+msgid "Kraken nicht gefunden. USB-Verbindung und Gerätezugriffsrechte prüfen."
+msgstr ""
+
+#: boreal/ui.py:182
+msgid "Kraken verbinden"
+msgstr ""
+
+#: boreal/core.py:52
+#, python-format
+msgid "Kurve muss bei 20°C beginnen und bei 50°C / 100% enden"
+msgstr ""
+
+#: boreal/core.py:43
+msgid "Kurvenpunkt muss Temperatur und Prozent enthalten"
+msgstr ""
+
+#: boreal/tray_model.py:29
+msgid "Kühlmitteltemperatur anzeigen"
+msgstr ""
+
+#: boreal/tray_model.py:25 boreal/ui.py:200
+msgid "Kühlprofil"
+msgstr ""
+
+#: boreal/ui.py:75 boreal/ui.py:197
+msgid "Kühlung"
+msgstr ""
+
+#: boreal/service.py:229
+msgid "LCD-Einstellung wurde nicht bestätigt"
+msgstr ""
+
+#: boreal/hardware.py:181
+msgid "LCD-Einstellungen konnten nicht bestätigt werden"
+msgstr ""
+
+#: boreal/hardware.py:62
+msgid "LCD-USB-Interface durch Kernel belegt; kein automatisches Ablösen"
+msgstr ""
+
+#: boreal/hardware.py:131
+msgid "LCD-Uploads können firmwarebedingt fehlschlagen"
+msgstr ""
+
+#: boreal/widgets.py:108
+msgid "Leistung %"
+msgstr ""
+
+#: boreal/tray_model.py:34
+msgid "Letzte Beleuchtung wiederherstellen"
+msgstr ""
+
+#: boreal/ui.py:409
+msgid "Live"
+msgstr ""
+
+#: boreal/tray_model.py:30
+msgid "Live-Stats fortsetzen"
+msgstr ""
+
+#: boreal/tray_model.py:30
+msgid "Live-Stats pausieren"
+msgstr ""
+
+#: boreal/ui.py:433
+msgid "Live-Temperaturübersicht"
+msgstr ""
+
+#: boreal/ui.py:293
+msgid "Log-Ordner öffnen"
+msgstr ""
+
+#: boreal/ui.py:448
+msgid "Lüfterbeleuchtung"
+msgstr ""
+
+#: boreal/core.py:118 boreal/settings.py:122
+msgid "Maximal 100 eigene Profile"
+msgstr ""
+
+#: boreal/runtime.py:182
+msgid "Maximal acht Geräte pro Sitzung"
+msgstr ""
+
+#: boreal/ui.py:221 boreal/ui.py:557
+msgid "Medienbibliothek leer"
+msgstr ""
+
+#: boreal/service.py:195
+msgid "Medientyp stimmt nicht überein"
+msgstr ""
+
+#: boreal/library.py:58
+msgid "Medium nicht mehr in der Bibliothek"
+msgstr ""
+
+#: boreal/hardware.py:107
+msgid "Mehrdeutige Geräteidentität; keine automatische Auswahl"
+msgstr ""
+
+#: boreal/ui.py:180
+msgid "Messwerte aktualisieren"
+msgstr ""
+
+#: boreal/tray_model.py:15 boreal/ui.py:409
+msgid "Messwerte veraltet"
+msgstr ""
+
+#: boreal/ui.py:182
+msgid ""
+"Mit einem Klick sichere Ausgangswerte setzen und das ausgewogene Profil "
+"übernehmen."
+msgstr ""
+
+#: boreal/hardware.py:135
+msgid "Nach Verbindung prüfen"
+msgstr ""
+
+#: boreal/ui.py:261
+msgid "Nach Verbindung verfügbar"
+msgstr ""
+
+#: boreal/runtime.py:146
+msgid ""
+"Nach wiederholten USB-Zeitüberschreitungen auf 1 Sekunde zurückgestellt. "
+"Verbindung bitte prüfen."
+msgstr ""
+
+#: boreal/ui.py:201
+msgid "Name des eigenen Profils"
+msgstr ""
+
+#: boreal/ui.py:201
+msgid "Name für eigenes Profil"
+msgstr ""
+
+#: boreal/ui.py:254
+msgid "Native Wassertemperatur anzeigen"
+msgstr ""
+
+#: boreal/ui.py:86
+msgid "Navigation ein-/ausblenden"
+msgstr ""
+
+#: boreal/service.py:18 boreal/tray_model.py:16
+msgid "Nicht verbunden"
+msgstr ""
+
+#: boreal/ui.py:220
+msgid "Noch kein Inhalt"
+msgstr ""
+
+#: boreal/settings.py:131
+msgid "Nur eigene Profile können gelöscht werden"
+msgstr ""
+
+#: boreal/ui.py:277
+msgid ""
+"Nur für dieses geprüfte Gerät. Nach kritischen Kühlfehlern ist eine "
+"Bestätigung nötig."
+msgstr ""
+
+#: boreal/tray_model.py:36
+msgid "Oberfläche beenden"
+msgstr ""
+
+#: boreal/ui.py:287
+msgid "Oberflächensprache"
+msgstr ""
+
+#: boreal/core.py:58
+msgid "Profil benötigt pump und fan"
+msgstr ""
+
+#: boreal/core.py:127
+msgid "Profil nicht gefunden"
+msgstr ""
+
+#: boreal/ui.py:461
+msgid "Profil unverändert"
+msgstr ""
+
+#: boreal/settings.py:107
+msgid "Profilbibliothek ist zu groß"
+msgstr ""
+
+#: boreal/core.py:99
+msgid "Profildatei ist zu groß"
+msgstr ""
+
+#: boreal/ui.py:525
+msgid "Profildatei zu groß"
+msgstr ""
+
+#: boreal/core.py:109
+msgid "Profilname muss 1–64 Zeichen enthalten"
+msgstr ""
+
+#: boreal/service.py:134
+msgid "Protokollversion 2 erforderlich"
+msgstr ""
+
+#: boreal/widgets.py:88
+msgid "Pumpe"
+msgstr ""
+
+#: boreal/ui.py:211
+msgid ""
+"Pumpe ≥60%, Lüfter ≥30%. Bei 50 °C immer 100%. Orange Linie: aktuelle "
+"Wassertemperatur."
+msgstr ""
+
+#: boreal/ui.py:448
+msgid "Pumpenring"
+msgstr ""
+
+#: boreal/widgets.py:96
+msgid "Punkt hinzufügen"
+msgstr ""
+
+#: boreal/widgets.py:112
+#, python-brace-format
+msgid "Punkt {number}: Leistung"
+msgstr ""
+
+#: boreal/widgets.py:112
+#, python-brace-format
+msgid "Punkt {number}: Wassertemperatur"
+msgstr ""
+
+#: boreal/widgets.py:91
+msgid "Punkte ziehen; dieselben Werte können in der Tabelle bearbeitet werden"
+msgstr ""
+
+#: boreal/rgb.py:31
+msgid "RGB erwartet drei Werte von 0–255"
+msgstr ""
+
+#: boreal/hardware.py:167
+msgid "RGB nur für geprüfte Firmware 1.2.0 freigegeben"
+msgstr ""
+
+#: boreal/service.py:180
+msgid "RGB-Farbe benötigt sechs Hex-Zeichen"
+msgstr ""
+
+#: boreal/service.py:177
+msgid "RGB-Kanal oder Effekt wird nicht unterstützt"
+msgstr ""
+
+#: boreal/hardware.py:226
+msgid "RGB-Modus für diese Firmware nicht freigegeben"
+msgstr ""
+
+#: boreal/rgb.py:60
+msgid "RGB-Zubehör nicht erkannt"
+msgstr ""
+
+#: boreal/rgb.py:56
+msgid "RGB-Zubehörerkennung ohne gültige Antwort"
+msgstr ""
+
+#: boreal/service.py:191
+msgid "Rotation: 0, 90, 180 oder 270"
+msgstr ""
+
+#: boreal/widgets.py:43
+msgid "Runde LCD-Vorschau"
+msgstr ""
+
+#: boreal/ui.py:81
+msgid "SIMULIERTE GERÄTE"
+msgstr ""
+
+#: boreal/media.py:86
+msgid "Schriftgröße außerhalb des Bereichs"
+msgstr ""
+
+#: boreal/media.py:106
+msgid "Sensor fehlt"
+msgstr ""
+
+#: boreal/ui.py:247
+#, python-brace-format
+msgid "Sensor {number}"
+msgstr ""
+
+#: boreal/ui.py:126
+#, python-brace-format
+msgid "Sensor {number} der Temperaturvorlage"
+msgstr ""
+
+#: boreal/ui.py:194
+msgid "Sensoren werden eingelesen …"
+msgstr ""
+
+#: boreal/ui.py:239
+msgid "Setzen"
+msgstr ""
+
+#: boreal/service.py:155 boreal/service.py:210
+msgid "Sicher · 100%"
+msgstr ""
+
+#: boreal/runtime.py:88
+msgid "Sicher · Firmware vor Wiederherstellung prüfen"
+msgstr ""
+
+#: boreal/ui.py:286
+msgid "Sprache"
+msgstr ""
+
+#: boreal/ui.py:624
+msgid "Sprache gespeichert. Boreal beim nächsten Öffnen neu starten."
+msgstr ""
+
+#: boreal/ui.py:282
+msgid "System"
+msgstr ""
+
+#: boreal/ui.py:284
+msgid "Systemsprache"
+msgstr ""
+
+#: boreal/core.py:49
+msgid "Temperaturen müssen steigen; Leistung darf nicht fallen"
+msgstr ""
+
+#: boreal/ui.py:241
+msgid "Temperaturvorlagen"
+msgstr ""
+
+#: boreal/tray_model.py:24
+msgid "Testprofile"
+msgstr ""
+
+#: boreal/ui.py:106
+msgid "Tray verfügbar"
+msgstr ""
+
+#: boreal/ui.py:132
+msgid "Tray verfügbar · X blendet Boreal aus"
+msgstr ""
+
+#: boreal/service.py:97
+msgid "USB-Prozess beendet"
+msgstr ""
+
+#: boreal/service.py:56
+msgid "USB-Sitzung verloren; Fallback nicht bestätigt"
+msgstr ""
+
+#: boreal/runtime.py:203 boreal/runtime.py:214 boreal/service.py:144
+msgid "Unbekannte Aktion"
+msgstr ""
+
+#: boreal/settings.py:22
+msgid "Unbekannte Konfiguration; Sicherung vor Migration erforderlich"
+msgstr ""
+
+#: boreal/media.py:83
+msgid "Unbekannte LCD-Vorlage"
+msgstr ""
+
+#: boreal/rgb.py:11
+msgid "Unbekannte RGB-Zubehörantwort"
+msgstr ""
+
+#: boreal/settings.py:62
+msgid "Unbekannte Sprache"
+msgstr ""
+
+#: boreal/settings.py:30
+msgid "Unbekannte Sprache in Konfiguration"
+msgstr ""
+
+#: boreal/core.py:37
+msgid "Unbekannter Kühlkanal"
+msgstr ""
+
+#: boreal/service.py:187
+msgid "Unbekannter LCD-Modus"
+msgstr ""
+
+#: boreal/hardware.py:266
+msgid "Unbekanntes Demogerät"
+msgstr ""
+
+#: boreal/settings.py:53
+msgid "Unbekanntes Erscheinungsbild"
+msgstr ""
+
+#: boreal/ui.py:461
+msgid "Ungespeicherte Änderungen"
+msgstr ""
+
+#: boreal/settings.py:83 boreal/settings.py:110
+msgid "Ungültige Profilbibliothek"
+msgstr ""
+
+#: boreal/core.py:102
+msgid "Ungültige Profilsammlung"
+msgstr ""
+
+#: boreal/rgb.py:27
+msgid "Ungültige RGB-Zone"
+msgstr ""
+
+#: boreal/media.py:111
+msgid "Ungültige Temperatureinheit"
+msgstr ""
+
+#: boreal/media.py:43
+msgid "Ungültiger Bildausschnitt"
+msgstr ""
+
+#: boreal/library.py:61
+msgid "Ungültiges Medienformat in der Bibliothek"
+msgstr ""
+
+#: boreal/library.py:55
+msgid "Ungültiges Medium"
+msgstr ""
+
+#: boreal/settings.py:28
+msgid "Ungültiges Messintervall in Konfiguration"
+msgstr ""
+
+#: boreal/hardware.py:130
+msgid "Upstream markiert Elite 2023 als fehlerhaft"
+msgstr ""
+
+#: boreal/ui.py:326
+msgid "Verbindung prüfen · letzte Messwerte können veraltet sein"
+msgstr ""
+
+#: boreal/ui.py:213
+msgid "Verwerfen"
+msgstr ""
+
+#: boreal/tray_model.py:26 boreal/ui.py:95
+msgid "Volle Kühlleistung"
+msgstr ""
+
+#: boreal/hardware.py:90
+msgid "Vor erneutem Suchen alle Geräte trennen"
+msgstr ""
+
+#: boreal/settings.py:117
+msgid "Voreinstellung bitte unter einem eigenen Namen speichern"
+msgstr ""
+
+#: boreal/core.py:124
+msgid "Voreinstellungen können nicht gelöscht werden"
+msgstr ""
+
+#: boreal/ui.py:243
+msgid "Vorlage"
+msgstr ""
+
+#: boreal/ui.py:253
+msgid "Vorlage auf LCD anzeigen"
+msgstr ""
+
+#: boreal/ui.py:219
+msgid "Vorschau"
+msgstr ""
+
+#: boreal/ui.py:232
+msgid "Vorschau neu berechnen"
+msgstr ""
+
+#: boreal/media.py:100 boreal/ui.py:246 boreal/ui.py:421
+msgid "Wasser"
+msgstr ""
+
+#: boreal/widgets.py:108
+msgid "Wasser °C"
+msgstr ""
+
+#: boreal/ui.py:433
+msgid "Wassertemperatur"
+msgstr ""
+
+#: boreal/widgets.py:177
+msgid "Wassertemperatur der letzten zwölf Minuten"
+msgstr ""
+
+#: boreal/service.py:78
+msgid "Wassertemperatur ≥50°C"
+msgstr ""
+
+#: boreal/runtime.py:112
+msgid ""
+"Wiederherstellung benötigt ein verbundenes, geprüftes Gerät mit Seriennummer"
+msgstr ""
+
+#: boreal/hardware.py:155
+msgid "X2 benötigt bestätigte Firmware >=4 für native Kurven"
+msgstr ""
+
+#: boreal/core.py:31
+#, python-brace-format
+msgid "Zahl zwischen {low} und {high} erwartet"
+msgstr ""
+
+#: boreal/runtime.py:60
+msgid "Zu viele ausstehende Geräteaufträge"
+msgstr ""
+
+#: boreal/hardware.py:163
+msgid "Zubehör nicht eindeutig erkannt"
+msgstr ""
+
+#: boreal/hardware.py:165
+#, python-brace-format
+msgid "Zubehörerkennung fehlgeschlagen: {error}"
+msgstr ""
+
+#: boreal/ui.py:546
+msgid "Zuerst ein Bild oder GIF auswählen"
+msgstr ""
+
+#: boreal/ui.py:355
+msgid "Zuerst ein Gerät auswählen"
+msgstr ""
+
+#: boreal/ui.py:224
+msgid "Zuschneiden"
+msgstr ""
+
+#: boreal/ui.py:242
+msgid "Zwei Sensoren"
+msgstr ""
+
+#: boreal/ui.py:574
+msgid "das ausgewählte Bild"
+msgstr ""
+
+#: boreal/ui.py:574
+msgid "die ausgewählte Animation"
+msgstr ""
+
+#: boreal/hardware.py:82
+#, python-brace-format
+msgid "liquidctl 1.16.x erforderlich (installiert: {version})"
+msgstr ""
+
+#: boreal/ui.py:341
+#, python-brace-format
+msgid "{count} Vorgang/Vorgänge laufen …"
+msgstr ""
+
+#: boreal/ui.py:331
+#, python-brace-format
+msgid "{count} Vorgang/Vorgänge werden verarbeitet …"
+msgstr ""
+
+#: boreal/ui.py:573 boreal/ui.py:590
+#, python-brace-format
+msgid "{kind} auf Kraken anzeigen"
+msgstr ""
+
+#: boreal/ui.py:592
+#, python-brace-format
+msgid "{kind} erfolgreich auf Kraken übertragen."
+msgstr ""
+
+#: boreal/ui.py:585
+#, python-brace-format
+msgid "{kind} wird übertragen …"
+msgstr ""
+
+#: boreal/ui.py:418
+#, python-brace-format
+msgid "{sensor} (Maximum): {value} °C"
+msgstr ""
+
+#: boreal/widgets.py:186
+#, python-brace-format
+msgid "{value:.1f} °C · Wasserverlauf"
+msgstr ""
+
+#: boreal/ui.py:576
+#, python-brace-format
+msgid "{width} × {height} · {frames} Bild(er) · {size} KiB"
+msgstr ""
+
+#: boreal/ui.py:75 boreal/ui.py:87 boreal/ui.py:242
+msgid "Übersicht"
+msgstr ""
+
+#: boreal/ui.py:341
+msgid "Übertragen / gespeichert"
+msgstr ""
+
+#: boreal/ui.py:257
+msgid "Überträgt das ausgewählte Bild auf das Display deiner Wasserkühlung."
+msgstr ""
+
+#: boreal/ui.py:574
+#, python-brace-format
+msgid "Überträgt {medium} auf das Display deiner Wasserkühlung."
+msgstr ""
+
+#: boreal/ui.py:188
+msgid "—"
+msgstr ""

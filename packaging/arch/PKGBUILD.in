@@ -1,0 +1,56 @@
+# Maintainer: Boreal contributors
+pkgname=boreal-cooling
+pkgver=@VERSION@
+pkgrel=1
+pkgdesc='Native GTK4 Kraken cooling, LCD and RGB control for Linux'
+arch=('any')
+url='https://github.com/Avacon00/boreal-cooling'
+license=('GPL-3.0-or-later')
+depends=(
+  'python>=3.12'
+  'python-gobject'
+  'python-cairo'
+  'gtk4>=4.10'
+  'libadwaita>=1.4'
+  'python-pillow>=10.2'
+  'python-pillow<13'
+  'python-packaging>=23'
+  'liquidctl>=1.16'
+  'liquidctl<1.17'
+)
+makedepends=('python-build' 'python-installer' 'python-setuptools>=77' 'python-wheel')
+install=boreal-cooling.install
+source=("${pkgname}-${pkgver}.tar.gz")
+sha256sums=('@SHA256@')
+
+build() {
+  cd "${srcdir}/${pkgname}-${pkgver}"
+  python -m build --wheel --no-isolation
+}
+
+check() {
+  cd "${srcdir}/${pkgname}-${pkgver}"
+  python -m unittest discover -s tests -v
+}
+
+package() {
+  cd "${srcdir}/${pkgname}-${pkgver}"
+  python -m installer --destdir="${pkgdir}" --prefix=/usr dist/*.whl
+
+  install -Dm644 integration/boreal.service "${pkgdir}/usr/lib/systemd/user/boreal.service"
+  sed -i 's|%h/.local/bin/boreal|/usr/bin/boreal|; s|TimeoutStopSec=30|TimeoutStopSec=60|' \
+    "${pkgdir}/usr/lib/systemd/user/boreal.service"
+  install -Dm644 integration/boreal-demo.service "${pkgdir}/usr/lib/systemd/user/boreal-demo.service"
+  install -Dm644 integration/71-boreal-kraken.rules "${pkgdir}/usr/lib/udev/rules.d/71-boreal-kraken.rules"
+  install -Dm644 integration/io.boreal.Cooling.desktop "${pkgdir}/usr/share/applications/io.boreal.Cooling.desktop"
+  install -Dm644 integration/io.boreal.Cooling.Demo.desktop "${pkgdir}/usr/share/applications/io.boreal.Cooling.Demo.desktop"
+  install -Dm644 boreal/assets/io.boreal.Cooling.svg "${pkgdir}/usr/share/icons/hicolor/scalable/apps/io.boreal.Cooling.svg"
+  install -Dm644 boreal/locale/en/LC_MESSAGES/boreal.mo "${pkgdir}/usr/share/locale/en/LC_MESSAGES/boreal.mo"
+  install -Dm644 README.md "${pkgdir}/usr/share/doc/${pkgname}/README.md"
+  install -Dm644 README.en.md "${pkgdir}/usr/share/doc/${pkgname}/README.en.md"
+  install -Dm644 CHANGELOG.md "${pkgdir}/usr/share/doc/${pkgname}/CHANGELOG.md"
+  install -Dm644 CONTRIBUTING.md "${pkgdir}/usr/share/doc/${pkgname}/CONTRIBUTING.md"
+  install -Dm644 SECURITY.md "${pkgdir}/usr/share/doc/${pkgname}/SECURITY.md"
+  install -Dm644 LICENSE "${pkgdir}/usr/share/licenses/${pkgname}/LICENSE"
+  cp -r --no-preserve=ownership docs "${pkgdir}/usr/share/doc/${pkgname}/"
+}

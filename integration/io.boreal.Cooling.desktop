@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Boreal
+Name[de]=Boreal
+Comment=Kraken cooling control for Linux
+Comment[de]=Kraken-Kühlung unter Linux
+Exec=/usr/bin/boreal --hardware
+Icon=io.boreal.Cooling
+Terminal=false
+Categories=System;
